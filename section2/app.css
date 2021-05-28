@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 90%;
+    margin: 1.1em 0;
+}
+
+a {
+    color: #10648f;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #cf1e1e;
+}
+
+h1 {
+    font-size: 170%;
+    text-align: center;
+}
+
+ol {
+    line-height: 1.7em;
+    list-style-type: circle;
+}
+
+li.directory a:before {
+    content: '[ ';
+}
+
+li.directory a:after {
+    content: ' ]';
+}

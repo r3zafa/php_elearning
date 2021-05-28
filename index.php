@@ -26,61 +26,112 @@
         <div class="row row-cols-2 row-cols-lg-3 g-3 g-lg-5 pb-5 px-5 text-white text-center">
 
             <div class=" col">
-                <div class="card bg-primary border-dark">
+                <div class="card bg-primary">
                     <div class="card-body">
                         <h3 class="card-title">Section 1</h3>
-                        <p class="card-text">Php Basics</p>
-                        <a class="btn btn-danger" href="/section1/playground.php"> Go to Php playground </a>
+                        <p class="card-text">Php Basics and Playground</p>
+                        <a class="btn btn-danger" href="/section1/playground.php"> See more </a>
                     </div>
                 </div>
             </div>
 
             <div class=" col">
-                <div class="card border-danger bg-warning">
+                <div class="card bg-primary">
                     <div class="card-body">
                         <h3 class="card-title">Section 2</h3>
-                        <p class="card-text">Php - </p>
-                        <a class="btn btn-primary" href="#"> Go to --- </a>
+                        <p class="card-text mb-3">Exercise of Course - Files </p>
+                        <a class="btn btn-danger" href="/section2/exercise1.php"> See more </a>
                     </div>
                 </div>
             </div>
             <div class=" col">
-                <div class="card border-dark bg-danger">
+                <div class="card bg-primary">
                     <div class="card-body">
                         <h3 class="card-title">Section 3</h3>
-                        <p class="card-text">Php - </p>
-                        <a class="btn btn-warning" href="#"> Go to --- </a>
+                        <p class="card-text">Building more Blocks of PHP</p>
+                        <a class="btn btn-danger" href="/section3/index3.php"> See more </a>
                     </div>
                 </div>
             </div>
             <div class=" col">
-                <div class="card border-danger bg-warning">
+                <div class="card bg-primary">
                     <div class="card-body">
                         <h3 class="card-title">Section 4</h3>
-                        <p class="card-text">Php - </p>
-                        <a class="btn btn-primary" href="#"> Go to --- </a>
+                        <p class="card-text">Super Global Post Variables </p>
+                        <a class="btn btn-danger" href="#"> See more </a>
                     </div>
                 </div>
             </div>
             <div class=" col">
-                <div class="card border-dark bg-danger">
+                <div class="card bg-primary">
                     <div class="card-body">
                         <h3 class="card-title">Section 5</h3>
-                        <p class="card-text">Php - </p>
-                        <a class="btn btn-warning" href="#"> Go to --- </a>
+                        <p class="card-text">Regular Expression</p>
+                        <a class="btn btn-danger" href="#"> See more </a>
                     </div>
                 </div>
             </div>
 
             <div class=" col">
-                <div class="card bg-primary border-dark">
+                <div class="card bg-primary">
                     <div class="card-body">
                         <h3 class="card-title">Section 6</h3>
-                        <p class="card-text">Php -</p>
-                        <a class="btn btn-danger" href="#"> Go to --- </a>
+                        <p class="card-text">Form validation Pro</p>
+                        <a class="btn btn-danger" href="#"> See more </a>
                     </div>
                 </div>
             </div>
+
+            <div class=" col">
+                <div class="card bg-primary">
+                    <div class="card-body">
+                        <h3 class="card-title">Section 7</h3>
+                        <p class="card-text mb-4">Dynamic Web Pages</p>
+                        <a class="btn btn-danger mt-3" href="#"> See more </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class=" col">
+                <div class="card bg-primary">
+                    <div class="card-body">
+                        <h3 class="card-title">Section 8</h3>
+                        <p class="card-text">Powerful Super Global Variables</p>
+                        <a class="btn btn-danger" href="#"> See more </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class=" col">
+                <div class="card bg-primary">
+                    <div class="card-body">
+                        <h3 class="card-title">Section 9</h3>
+                        <p class="card-text">Employee Management Crud Application</p>
+                        <a class="btn btn-danger" href="#"> See more </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class=" col">
+                <div class="card bg-primary">
+                    <div class="card-body">
+                        <h3 class="card-title">Section 10</h3>
+                        <p class="card-text">Content Management System (CMS 4.2.1 -- 2019)</p>
+                        <a class="btn btn-danger" href="#"> See more </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class=" col">
+                <div class="card bg-primary">
+                    <div class="card-body">
+                        <h3 class="card-title">Section 11</h3>
+                        <p class="card-text">Possible Answers to Questions</p>
+                        <a class="btn btn-danger" href="#"> See more </a>
+                    </div>
+                </div>
+            </div>
+
         </div>
 
     </main>
